@@ -1,0 +1,249 @@
+<resources>
+    <string name="app_name">Submission3MADE</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+        fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+    </string>
+
+    <string name="movie">Movies</string>
+    <string name="tv_show">TV Show</string>
+
+    <string name="user_score">User Score :</string>
+    <string name="release_date">Release Date :</string>
+    <string name="first_air_date">First Air Date : </string>
+    <string name="top_cast">Top Cast :</string>
+    <string name="overview">Overview</string>
+    <string name="change_language">Change Language</string>
+
+    <!--<string-array name="data_title_movie">-->
+        <!--<item>A Star Is Born</item>-->
+        <!--<item>Aquaman</item>-->
+        <!--<item>Avengers: Infinity War</item>-->
+        <!--<item>Bird Box</item>-->
+        <!--<item>Bohemian Rhapsody</item>-->
+        <!--<item>Bumblebee</item>-->
+        <!--<item>Creed</item>-->
+        <!--<item>Deadpool</item>-->
+        <!--<item>How To Train Your Dragon</item>-->
+        <!--<item>Venom</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="data_release_date_movie">-->
+        <!--<item>3 October 2018</item>-->
+        <!--<item>7 December 2018</item>-->
+        <!--<item>25 April 2018</item>-->
+        <!--<item>13 October 2018</item>-->
+        <!--<item>24 October 2018</item>-->
+        <!--<item>15 December 2018</item>-->
+        <!--<item>25 November 2018</item>-->
+        <!--<item>9 February 2018</item>-->
+        <!--<item>10 March 2010</item>-->
+        <!--<item>5 October 2018</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="data_score_movie">-->
+        <!--<item>7.5</item>-->
+        <!--<item>6.8</item>-->
+        <!--<item>8.3</item>-->
+        <!--<item>7.0</item>-->
+        <!--<item>8.1</item>-->
+        <!--<item>6.5</item>-->
+        <!--<item>7.3</item>-->
+        <!--<item>7.6</item>-->
+        <!--<item>7.7</item>-->
+        <!--<item>6.6</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="data_top_cast_movie">-->
+        <!--<item>Lady Gaga, Bradley Cooper, Sam Elliot, Andrew Dice Clay, Rafi Gavron</item>-->
+        <!--<item>Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson, Nicole Kidman</item>-->
+        <!--<item>Robert Downey Jr., Chris Hemsworth, Chris Evans, Mark Ruffalo, Scarlett Johansson</item>-->
+        <!--<item>Sandra Bullock, Trevante Rhodes, John Malkovich, Sarah Paulson, Jacki Weaver</item>-->
+        <!--<item>Rami Malek, Gwilym Lee, Ben Hardy, Joseph Mazzello, Lucy Boynton</item>-->
+        <!--<item>Hailee Steinfeld, Joge Lendeborg Jr., John Cena, Jason Ian Drucker, Pamela Adlon</item>-->
+        <!--<item>Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad, Tony Bellew</item>-->
+        <!--<item>Ryan Reynolds, Morena Baccarin, Ed Skrein, T.J. Miller, Gina Carano</item>-->
+        <!--<item>Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill</item>-->
+        <!--<item>Tom Hardy, Michele Williams, Riz Ahmed, Scott Haze, Reid Scott</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="data_description_movie">-->
+        <!--<item>Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just-->
+            <!--about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as-->
+            <!--Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an-->
+            <!--ongoing battle with his own internal demons.-->
+        <!--</item>-->
+        <!--<item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the-->
+            <!--power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people-->
+            <!--and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother-->
+            <!--and true heir to the throne.-->
+        <!--</item>-->
+        <!--<item>As the Avengers and their allies have continued to protect the world from threats too large for any one-->
+            <!--hero to handle,-->
+            <!--a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to-->
+            <!--collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will-->
+            <!--on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and-->
+            <!--existence itself has never been more uncertain.-->
+        <!--</item>-->
+        <!--<item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two-->
+            <!--children make a desperate bid to reach safety.-->
+        <!--</item>-->
+        <!--<item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the-->
+            <!--music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant-->
+            <!--classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its-->
+            <!--greatest challenge yet – finding a way to keep the band together amid the success and excess.-->
+        <!--</item>-->
+        <!--<item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town.-->
+            <!--Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee,-->
+            <!--battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.-->
+        <!--</item>-->
+        <!--<item>The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the-->
+            <!--son of his late friend and former rival Apollo Creed.-->
+        <!--</item>-->
+        <!--<item>Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after-->
+            <!--being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego-->
+            <!--Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who-->
+            <!--nearly destroyed his life.-->
+        <!--</item>-->
+        <!--<item>As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of-->
+            <!--passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes-->
+            <!--that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to-->
+            <!--the chagrin of his warrior father-->
+        <!--</item>-->
+        <!--<item>-->
+            <!--Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the-->
+            <!--host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to-->
+            <!--protect the world from a shadowy organization looking for a symbiote of their own.-->
+        <!--</item>-->
+
+    <!--</string-array>-->
+
+    <!--<array name="data_poster_movie">-->
+        <!--<item>@drawable/poster_a_star</item>-->
+        <!--<item>@drawable/poster_aquaman</item>-->
+        <!--<item>@drawable/poster_avengerinfinity</item>-->
+        <!--<item>@drawable/poster_birdbox</item>-->
+        <!--<item>@drawable/poster_bohemian</item>-->
+        <!--<item>@drawable/poster_bumblebee</item>-->
+        <!--<item>@drawable/poster_creed</item>-->
+        <!--<item>@drawable/poster_deadpool</item>-->
+        <!--<item>@drawable/poster_dragon</item>-->
+        <!--<item>@drawable/poster_venom</item>-->
+    <!--</array>-->
+
+    <!--<string-array name="data_title_tv_show">-->
+        <!--<item>One Punch Man</item>-->
+        <!--<item>The Flash</item>-->
+        <!--<item>Arrow</item>-->
+        <!--<item>Grey\'s Anatomy</item>-->
+        <!--<item>Fear The Walking Dead</item>-->
+        <!--<item>The Simpsons</item>-->
+        <!--<item>Marvel\'s Agents Of S.H.I.E.L.D.</item>-->
+        <!--<item>Dragon Ball</item>-->
+        <!--<item>Game Of Thrones</item>-->
+        <!--<item>Gotham</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="data_release_date_tv_show">-->
+        <!--<item>4 October 2015</item>-->
+        <!--<item>7 October 2014</item>-->
+        <!--<item>10 October 2012</item>-->
+        <!--<item>27 March 2005</item>-->
+        <!--<item>23 August 2015</item>-->
+        <!--<item>17 December 1989</item>-->
+        <!--<item>24 September 2013</item>-->
+        <!--<item>26 February 1986</item>-->
+        <!--<item>17 April 2011</item>-->
+        <!--<item>22 September 2014</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="data_score_tv_show">-->
+        <!--<item>8.0</item>-->
+        <!--<item>6.7</item>-->
+        <!--<item>5.8</item>-->
+        <!--<item>6.2</item>-->
+        <!--<item>6.3</item>-->
+        <!--<item>7.1</item>-->
+        <!--<item>6.8</item>-->
+        <!--<item>7.1</item>-->
+        <!--<item>8.1</item>-->
+        <!--<item>6.9</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="data_top_cast_tv_show">-->
+        <!--<item>Makoto Furukawa, Kaito Ishikawa, Hiraku M., Kazuhiro Yamaji, Yuichi Nakamura</item>-->
+        <!--<item>Grant Gustin, Candice Patton, Carlos Valdes, Danielle Panabeker, Tom Cavanagh</item>-->
+        <!--<item>Stephen Amell, Emily Bett R., David Ramsey, Katie Cassidy, Willa Holland</item>-->
+        <!--<item>Ellen Pompeo, Justin Chambers, James Pickens Jr., Chandra Wilson, Patrick Dempsey</item>-->
+        <!--<item>Alicia Debnam-Carey, Colman Domingo, Kim Dickens, Frank Dillane, Ruben Blades</item>-->
+        <!--<item>Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith, Harry Shearer</item>-->
+        <!--<item>Chloe Bennet, Clark Gregg, Ming-Na Wen, Iain De Caestecker, Elizabeth Henstridge</item>-->
+        <!--<item>Masako Nozawa, Mayumi Tanaka, Hiromi Tsuru, Toru Furuya, Naoki Tatsuta</item>-->
+        <!--<item>Emilia Clarke, Kit Harington, Peter Dinklage, Lena Headey, Nikolaj Coster-Waldau</item>-->
+        <!--<item>Ben McKenzie, Donal Logue, David Mazouz, Sean Pertwee, Robin Lord Taylor</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="data_description_tv_show">-->
+        <!--<item>Saitama is a hero who only became a hero for fun. After three years of special training, though, he\'s-->
+            <!--become so strong that he\'s practically invincible. In fact, he\'s too strong even his mightiest opponents-->
+            <!--are taken out with a single punch, and it turns out that being devastatingly powerful is actually-->
+            <!--kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies-->
+            <!--every day, how much longer can he keep it going?-->
+        <!--</item>-->
+        <!--<item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning-->
+            <!--and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to-->
+            <!--move through Central City like an unseen guardian angel.-->
+        <!--</item>-->
+        <!--<item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea.-->
+            <!--He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with-->
+            <!--a bow.-->
+        <!--</item>-->
+        <!--<item>Follows the personal and professional lives of a group of doctors at Seattle\'s Grey Sloan Memorial-->
+            <!--Hospital.-->
+        <!--</item>-->
+        <!--<item>What did the world look like as it was transforming into the horrifying apocalypse depicted in-->
+            <!--The Walking Dead? This spin-off set in Los Angeles, following new characters as they face the beginning-->
+            <!--of the end of the world, will answer that question.-->
+        <!--</item>-->
+        <!--<item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures-->
+            <!--of the Simpson family. Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands.-->
+            <!--Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest-->
+            <!--star.-->
+            <!--The show has also made name for itself in its fearless satirical take on politics, media and American life-->
+            <!--in general.-->
+        <!--</item>-->
+        <!--<item>Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division)-->
+            <!--puts together a team of agents to investigate the new, the strange and the unknown around the globe,-->
+            <!--protecting the ordinary from the extraordinary.-->
+        <!--</item>-->
+        <!--<item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku.-->
+            <!--Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy-->
+            <!--was on his own, but easily managed.-->
+        <!--</item>-->
+        <!--<item>Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads-->
+            <!--to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected-->
+            <!--military order of misfits, the Night\'s Watch, is all that stands between the realms of men and icy horrors-->
+            <!--beyond.-->
+        <!--</item>-->
+        <!--<item>-->
+            <!--Everyone knows the name Commissioner Gordon. He is one of the crime world\'s greatest foes, a man whose-->
+            <!--reputation is synonymous with law and order. But what is known of Gordon\'s story and his rise from rookie-->
+            <!--detective to Police Commissioner?-->
+        <!--</item>-->
+    <!--</string-array>-->
+
+    <!--<array name="data_poster_tv_show">-->
+        <!--<item>@drawable/poster_onepunch</item>-->
+        <!--<item>@drawable/poster_flash</item>-->
+        <!--<item>@drawable/poster_arrow</item>-->
+        <!--<item>@drawable/poster_greysanatomy</item>-->
+        <!--<item>@drawable/poster_thewalking</item>-->
+        <!--<item>@drawable/poster_thesimpsons</item>-->
+        <!--<item>@drawable/poster_shield</item>-->
+        <!--<item>@drawable/poster_dragonball</item>-->
+        <!--<item>@drawable/poster_got</item>-->
+        <!--<item>@drawable/poster_gotham</item>-->
+    <!--</array>-->
+</resources>
